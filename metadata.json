@@ -1,0 +1,5 @@
+{
+  "name": "Boundary Tool",
+  "description": "An application to draw boundary lines on images, apply visual effects, add disclaimers, and export the final image.",
+  "requestFramePermissions": []
+}
